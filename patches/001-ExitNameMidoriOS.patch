@@ -7,7 +7,7 @@ index 90839ff75b..c6c8745734 100644
  				<content>
  					<item>
 -						<label>$LOCALIZE[13012]</label>
-+						<label>Exit to ArkOS</label>
++						<label>Exit to MidoriOS</label>
  						<onclick>Quit()</onclick>
  						<visible>System.ShowExitButton</visible>
  					</item>
